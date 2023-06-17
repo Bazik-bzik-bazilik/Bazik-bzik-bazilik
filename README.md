@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bazik
-- 👀 I’m interested in hamsters and linux
+- 👀 I’m interested in hamsters linux and iPhones
 - 🌱 I’m currently learning python and c++
 
 <!---
